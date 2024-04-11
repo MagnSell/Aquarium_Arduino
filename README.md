@@ -9,3 +9,9 @@ Aquarium Arduino is a repository for storing the arduino code for the digital tw
 ### pH
 - DFRobot_PH
 
+### Dissolved Oxygen
+- Arduino.h
+
+### General
+- ArduinoJson
+- EEPROM.h
